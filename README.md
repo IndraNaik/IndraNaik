@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm an enthusiastic **Cloud DevOps Engineer** Hands-on exp
 ---
 
 ### 🚀 **What I Do**
-- 🌩️ **Cloud Expertise:** AWS & GCP | VPCs | ECS/EKS | Cost Management | DocumentDB | MySQL
+- 🌩️ **Cloud Expertise:** AWS & GCP | VPCs | ECS/EKS | Cost Management 
 - 🛠️ **DevOps Tools:** Docker | Kubernetes | Helm | Terraform | Jenkins
 - 📊 **Monitoring:** Grafana | Prometheus | CloudWatch | ELK
 - 🔒 **Networking & Security:** Load Balancing | VPN | IAM | Security Groups
