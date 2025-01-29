@@ -29,5 +29,5 @@ Welcome to my GitHub! I'm an enthusiastic **Cloud DevOps Engineer** Hands-on exp
 ---
 
 ## 🌐 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/your-profile](https://www.linkedin.com/in/pathlavath-indra-naik-a450a0188/))
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indraanaik@gmail.com)
