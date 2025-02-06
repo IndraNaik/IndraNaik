@@ -5,6 +5,29 @@ Welcome to my GitHub! I'm an enthusiastic **Cloud DevOps Engineer** Hands-on exp
 
 ---
 
+
+### 📊 **Technologies Used**
+
+<div align="center">
+  <img src="./images/amazonwebservices-original-wordmark.svg" height="50" alt="AWS" />
+  <img src="./images/googlecloud-original.svg" height="50" alt="GCP>
+  <img src="./images/jira-original.svg" height="50" alt="Jira" />
+  <img src="./images/linux-original.svg" height="50" alt="Linux" />
+  <img src="./images/github-original.svg" height="50" alt="GitHub" />
+  <img src="./images/gitlab-original-wordmark.svg" height="50" alt="GitLab" />
+  <img src="./images/nginx-original.svg" height="50" alt="Nginx" />
+  <img src="./images/docker-original.svg" height="50" alt="Docker" />
+  <img src="./images/kubernetes-original.svg" height="50" alt="Kubernetes" />
+  <img src="./images/helm-original.svg" height="50" alt="Helm" />
+  <img src="./images/jenkins-original.svg" height="50" alt="Jenkins" />
+  <img src="./images/grafana-original.svg" height="50" alt="Grafana" />
+  <img src="./images/prometheus-original.svg" height="50" alt="Prometheus" />
+  <img src="./images/java-original-wordmark.svg" height="50" alt="Java" />
+  <img src="./images/mysql-original-wordmark.svg" height="50" alt="MySQL" />
+</div>
+
+---
+
 ### 🚀 **What I Do**
 - 🌩️ **Cloud Expertise:** AWS & GCP | VPCs | ECS/EKS | Cost Management 
 - 🛠️ **DevOps Tools:** Docker | Kubernetes | Helm | Terraform | Jenkins
@@ -23,8 +46,12 @@ Welcome to my GitHub! I'm an enthusiastic **Cloud DevOps Engineer** Hands-on exp
 ---
 
 ### 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IndraNaik&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IndraNaik&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IndraNaik&show_icons=true&theme=algolia" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraNaik&layout=compact&theme=algolia" alt="Top Languages" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IndraNaik&theme=algolia" alt="Profile Summary" height="180px" />
+
+</div>
 
 ---
 
