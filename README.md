@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm an enthusiastic **Cloud Engineer** in automation, clou
 ---
 
 
-### 📊 **DevOps Tools**
+### 📊 **Technologies Used**
 
 <div align="center">
   <img src="./images/amazonwebservices-original-wordmark.svg" height="50" alt="AWS" />
@@ -23,10 +23,10 @@ Welcome to my GitHub! I'm an enthusiastic **Cloud Engineer** in automation, clou
   <img src="./images/grafana-original.svg" height="50" alt="Grafana" />
   <img src="./images/prometheus-original.svg" height="50" alt="Prometheus" />
   <img src="./images/java-original-wordmark.svg" height="50" alt="Java" />
-  
-
+  <img src="./images/mysql-original-wordmark.svg" height="50" alt="MySQL" />
 </div>
 
+---
 
 ### 🚀 **What I Do**
 - 🌩️ **Cloud Expertise:** AWS & GCP | VPCs | ECS/EKS | Redshift | DocumentDB 
@@ -46,11 +46,16 @@ Welcome to my GitHub! I'm an enthusiastic **Cloud Engineer** in automation, clou
 ---
 
 ### 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IndraNaik&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IndraNaik&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IndraNaik&show_icons=true&theme=algolia" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraNaik&layout=compact&theme=algolia" alt="Top Languages" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IndraNaik&theme=algolia" alt="Profile Summary" height="180px" />
+
+</div>
 
 ---
 
 ### 📫 **Let's Connect**
-- [LinkedIn](https://www.linkedin.com/in/pathlavath-indra-naik-a450a0188/)
-- [Email](mailto:indraanaik@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pathlavath-indra-naik-a450a0188/)
+
+- [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indraanaik@gmail.com)
