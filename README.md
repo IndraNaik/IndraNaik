@@ -1,7 +1,7 @@
 # Hi, I'm P Indra Naik 👋
 ### Cloud Engineer | DevOps | Problem Solver
 
-Welcome to my GitHub! I'm an enthusiastic **Cloud Engineer** in automation, cloud infrastructure management, and CI/CD pipelines. Passionate about optimizing cloud solutions, deploying applications in microservices, and enhancing system reliability, I aim to build scalable and efficient platforms.
+Welcome to my GitHub! I'm an enthusiastic **Cloud DevOps Engineer** Hands-on experience with cloud infrastructure management, automation, and CI/CD pipelines. Passionate about optimizing cloud solutions, deploying applications in microservices, and enhancing system reliability, I aim to build scalable and efficient platforms.
 
 ---
 
@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm an enthusiastic **Cloud Engineer** in automation, clou
 ---
 
 ### 🚀 **What I Do**
-- 🌩️ **Cloud Expertise:** AWS & GCP | VPCs | ECS/EKS | Redshift | DocumentDB 
+- 🌩️ **Cloud Expertise:** AWS & GCP | VPCs | ECS/EKS | Cost Management 
 - 🛠️ **DevOps Tools:** Docker | Kubernetes | Helm | Terraform | Jenkins
 - 📊 **Monitoring:** Grafana | Prometheus | CloudWatch | ELK
 - 🔒 **Networking & Security:** Load Balancing | VPN | IAM | Security Groups
@@ -59,3 +59,4 @@ Welcome to my GitHub! I'm an enthusiastic **Cloud Engineer** in automation, clou
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pathlavath-indra-naik-a450a0188/)
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indraanaik@gmail.com)
+
