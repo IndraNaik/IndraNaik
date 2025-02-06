@@ -49,8 +49,8 @@ Welcome to my GitHub! I'm an enthusiastic **Cloud Engineer** in automation, clou
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IndraNaik&show_icons=true&theme=algolia" alt="GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraNaik&layout=compact&theme=algolia" alt="Top Languages" height="180px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IndraNaik&theme=algolia" alt="Profile Summary" height="180px" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IndraNaik&theme=tokyo-night" alt="Contribution Graph" height="200px" />
+<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IndraNaik&theme=algolia" alt="Profile Summary" height="180px" /> -->
 </div>
 
 ---
