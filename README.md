@@ -5,8 +5,31 @@ Welcome to my GitHub! I'm an enthusiastic **Cloud Engineer** in automation, clou
 
 ---
 
+
+### 📊 **DevOps Tools**
+
+<div align="center">
+  <img src="./images/amazonwebservices-original-wordmark.svg" height="50" alt="AWS" />
+  <img src="./images/googlecloud-original.svg" height="50" alt="GCP>
+  <img src="./images/jira-original.svg" height="50" alt="Jira" />
+  <img src="./images/linux-original.svg" height="50" alt="Linux" />
+  <img src="./images/github-original.svg" height="50" alt="GitHub" />
+  <img src="./images/gitlab-original-wordmark.svg" height="50" alt="GitLab" />
+  <img src="./images/nginx-original.svg" height="50" alt="Nginx" />
+  <img src="./images/docker-original.svg" height="50" alt="Docker" />
+  <img src="./images/kubernetes-original.svg" height="50" alt="Kubernetes" />
+  <img src="./images/helm-original.svg" height="50" alt="Helm" />
+  <img src="./images/jenkins-original.svg" height="50" alt="Jenkins" />
+  <img src="./images/grafana-original.svg" height="50" alt="Grafana" />
+  <img src="./images/prometheus-original.svg" height="50" alt="Prometheus" />
+  <img src="./images/java-original-wordmark.svg" height="50" alt="Java" />
+  
+
+</div>
+
+
 ### 🚀 **What I Do**
-- 🌩️ **Cloud Expertise:** AWS & GCP | VPCs | ECS/EKS | Redshift | DocumentDB | MongoDB
+- 🌩️ **Cloud Expertise:** AWS & GCP | VPCs | ECS/EKS | Redshift | DocumentDB 
 - 🛠️ **DevOps Tools:** Docker | Kubernetes | Helm | Terraform | Jenkins
 - 📊 **Monitoring:** Grafana | Prometheus | CloudWatch | ELK
 - 🔒 **Networking & Security:** Load Balancing | VPN | IAM | Security Groups
