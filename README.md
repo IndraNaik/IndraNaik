@@ -1,16 +1,22 @@
-# Hi, I'm P Indra Naik 👋
-### Cloud Engineer | DevOps | Problem Solver
-
-Welcome to my GitHub! I'm an enthusiastic **Cloud DevOps Engineer** Hands-on experience with cloud infrastructure management, automation, and CI/CD pipelines. Passionate about optimizing cloud solutions, deploying applications in microservices, and enhancing system reliability, I aim to build scalable and efficient platforms.
+<div align="center" style="position: relative; width: 100%; height: auto;">
+  <h1>Hi, I'm P Indra Naik 👋</h1>
+<!--   <h3>Cloud Engineer | DevOps | Problem Solver</h3> -->
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=850&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=DevOps+%7C+Cloud;It's+all+about+the+unification+and+automation+of+the+process." />
+  </p>
+</div>
 
 ---
 
+## 🚀 About Me
+I'm an enthusiastic **DevOps & Cloud Engineer** with hands-on experience in cloud infrastructure management, automation, and CI/CD pipelines. Passionate about optimizing cloud solutions, deploying applications in microservices, and enhancing system reliability, I strive to build scalable and efficient platforms.
 
-### 📊 **Technologies Used**
+---
 
-<div align="center">
+## 📊 Technologies & Tools
+<p align="center">
   <img src="./images/amazonwebservices-original-wordmark.svg" height="50" alt="AWS" />
-  <img src="./images/googlecloud-original.svg" height="50" alt="GCP>
+  <img src="./images/googlecloud-original.svg" height="50" alt="GCP" />
   <img src="./images/jira-original.svg" height="50" alt="Jira" />
   <img src="./images/linux-original.svg" height="50" alt="Linux" />
   <img src="./images/github-original.svg" height="50" alt="GitHub" />
@@ -24,11 +30,11 @@ Welcome to my GitHub! I'm an enthusiastic **Cloud DevOps Engineer** Hands-on exp
   <img src="./images/prometheus-original.svg" height="50" alt="Prometheus" />
   <img src="./images/java-original-wordmark.svg" height="50" alt="Java" />
   <img src="./images/mysql-original-wordmark.svg" height="50" alt="MySQL" />
-</div>
+</p>
 
 ---
 
-### 🚀 **What I Do**
+## ⚡ What I Do
 - 🌩️ **Cloud Expertise:** AWS & GCP | VPCs | ECS/EKS | Cost Management 
 - 🛠️ **DevOps Tools:** Docker | Kubernetes | Helm | Terraform | Jenkins
 - 📊 **Monitoring:** Grafana | Prometheus | CloudWatch | ELK
@@ -38,25 +44,26 @@ Welcome to my GitHub! I'm an enthusiastic **Cloud DevOps Engineer** Hands-on exp
 
 ---
 
-### 🏆 **Achievements**
+## 🏆 Achievements
 - **Client Recognition**: Delivered a seamless large-scale DevOps migration under a tight timeline.  
 - **System Optimization**: Improved resource utilization by **15%** in EKS clusters.  
 - **Team Collaboration**: Enhanced system reliability by **20%**, preventing recurring incidents.
 
----
-
-### 📊 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IndraNaik&show_icons=true&theme=algolia" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraNaik&layout=compact&theme=algolia" alt="Top Languages" height="180px" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IndraNaik&theme=tokyo-night" alt="Contribution Graph" height="200px" />
-<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IndraNaik&theme=algolia" alt="Profile Summary" height="180px" /> -->
-</div>
+<!-- ## 📊 GitHub Stats -->
+<!-- <p align="center"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=IndraNaik&show_icons=true&theme=algolia" alt="GitHub Stats" height="180px" /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraNaik&layout=compact&theme=algolia" alt="Top Languages" height="180px" /> -->
+<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IndraNaik&theme=tokyo-night" alt="Contribution Graph" height="200px" /> -->
+<!-- </p> -->
 
 ---
 
 ## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pathlavath-indra-naik-a450a0188/)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indraanaik@gmail.com)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/pathlavath-indra-naik-a450a0188/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:indraanaik@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
