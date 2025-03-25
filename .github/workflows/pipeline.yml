@@ -5,7 +5,7 @@ on:
     branches:
       - update 
 jobs:
-  sync_pipeline_to_main:
+  sync_update_to_main:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -26,9 +26,9 @@ jobs:
         run: |
           git checkout main
           git pull origin main
-      - name: Merge pipeline into main
+      - name: Merge update into main
         run: |
-          git merge --no-ff pipeline -m "Auto-merged pipeline into main"
+          git merge --no-ff update -m "Auto-merged update into main"
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
